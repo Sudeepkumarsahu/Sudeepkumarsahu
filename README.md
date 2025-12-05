@@ -85,7 +85,9 @@
 [![Email](https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sahusudeepkumar3@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sudeep1194/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sudeepkumarsahu)
-[![Contact](https://img.shields.io/badge/Contact-%231DA1F2.svg?style=for-the-badge&logo=telephone&logoColor=white)](tel:+919340559543)
+<a href="tel:+919340559543">
+  <img src="https://img.shields.io/badge/Contact-%231DA1F2.svg?style=for-the-badge&logo=phone&logoColor=white" />
+</a>
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/919340559543)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sudeepkumar.sahu.3576)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/+919340559543)
