@@ -17,6 +17,15 @@
     <img src="https://komarev.com/ghpvc/?username=sudeepkumarsahu&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views">
   </a>
 </p>
+---
+
+## 🧑‍💻 About Me
+🚀 B.Tech from Bansal Institute of Research Technology & Science (BIRTS), Bhopal 
+💡 I'm a quick learner and passionate about solving real-world problems through technology.  
+📚 Constantly upgrading my tech stack and working on exciting backend & full-stack projects.  
+🎯 Goal-oriented, team player with a strong foundation in **Java, Spring Boot, SQL, and Web Development**.
+
+---
 
 
 ## 🛠️ Tech Stack
@@ -69,6 +78,18 @@
 <img alt="Mark streak" src="https://github-readme-streak-stats-five-roan.vercel.app?user=Sudeepkumarsahu&theme=dark"></td><td width="50%" align="center">
 <img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=Sudeepkumarsahu&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=6"></td></tr></tbody></table>
 
-## Connect with me
+## 📫 Get in Touch
 
-<p align="center">🔗 LinkedIn: <a href="http://www.linkedin.com/in/sudeep1194" target="_blank">Sudeep Kumar Sahu</a> Email: sahusudeepkumar3@gmail.com</p>
+[![Email](https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sahusudeepkumar3@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sudeep1194/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sudeepkumarsahu)
+[![Contact](https://img.shields.io/badge/Contact-%231DA1F2.svg?style=for-the-badge&logo=telephone&logoColor=white)](tel:+919340559543)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/919340559543)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sudeepkumar.sahu.3576)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sudeepsahu)
+[![Snapchat](https://img.shields.io/badge/Snapchat-FFFC00.svg?style=for-the-badge&logo=snapchat&logoColor=black)](https://www.snapchat.com/add/sudeepsahu1111)
+
+---
+<p align="center">
+  <i>“Keep learning, keep building.”</i>
+</p>
