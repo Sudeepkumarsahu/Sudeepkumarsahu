@@ -1,6 +1,22 @@
-## About Me
+<div align="center"> 
 
-Hi, I'm Sudeep Kumar Sahu, a passionate Full Stack Java Developer who loves turning ideas into powerful, user-friendly web applications. I have hands-on experience from my industrial training as a Software Developer Intern, where I worked on developing scalable and efficient solutions using Java, Spring Boot, JDBC, Servlets, JSP, HTML, CSS, JavaScript, React.js, and MySQL. I’m always excited to explore new technologies, build real-world projects, and keep growing as a developer. When I’m not coding, you’ll find me experimenting with new frameworks, learning something new, or contributing to open-source projects.
+  # ✨ Hello, I'm [Sudeep Kumar Sahu]((https://github.com/sudeepkumarsahu)) 👨‍💻
+  
+  <h3 align="center">Java Full Stack Developer | Passionate about building scalable web applications</h3>
+  
+</div>
+
+<p align="center">
+  <a href="https://github.com/sudeepkumarsahu">
+    <img src="https://img.shields.io/github/followers/sudeepkumarsahu?label=Follow&style=social" alt="GitHub followers" />
+  </a>
+  <a href="https://www.linkedin.com/in/sudeep1194/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/sudeepkumarsahu" target="_blank">
+    <img src="https://komarev.com/ghpvc/?username=sudeepkumarsahu&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views">
+  </a>
+</p>
 
 
 ## 🛠️ Tech Stack
