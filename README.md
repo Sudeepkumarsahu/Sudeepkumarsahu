@@ -88,7 +88,7 @@
 [![Contact](https://img.shields.io/badge/Contact-%231DA1F2.svg?style=for-the-badge&logo=telephone&logoColor=white)](tel:+919340559543)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/919340559543)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sudeepkumar.sahu.3576)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sudeepsahu)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/+919340559543)
 [![Snapchat](https://img.shields.io/badge/Snapchat-FFFC00.svg?style=for-the-badge&logo=snapchat&logoColor=black)](https://www.snapchat.com/add/sudeepsahu1111)
 
 ---
